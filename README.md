@@ -6,7 +6,7 @@ Projeto Estudo desenvolvido para aprendizado do flexbox.
 # Imagens
 
 > Pagina do Twitter:
-<img src="https://https://github.com/JoanesMiranda/twitter-flexbox/blob/master/imagens/pagina_twitter.png" width="400" />
+<img src="https://github.com/JoanesMiranda/twitter-flexbox/blob/master/imagens/pagina_twitter.png" width="400" />
 
 > Twitters:
-<img src="https://https://github.com/JoanesMiranda/twitter-flexbox/blob/master/imagens/twitters.png" width="400" />
+<img src="https://github.com/JoanesMiranda/twitter-flexbox/blob/master/imagens/twitters.png" width="400" />
